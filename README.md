@@ -1,6 +1,6 @@
 # Player Search
 
-Petite application pas poussée permettant juste en entrant un pseudo dans la barre de recherche, d'obtenir les statistiques [Rosters Ranked](https://discord.gg/GmPKFyfRhn) dans un executable.
+Petite application simple permettant juste en entrant un pseudo dans la barre de recherche, d'obtenir les statistiques [Rosters Ranked](https://discord.gg/GmPKFyfRhn) dans un executable.
 
 **Fonctionnalités:**
 - [x] Savoir si le joueur est banni et la raison
