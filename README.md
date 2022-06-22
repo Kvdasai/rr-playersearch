@@ -12,3 +12,4 @@ Petite application pas poussée permettant juste en entrant un pseudo dans la ba
 
 **Bug possibles:**
 - Appuyer sur "Entrée" fait un retour à la ligne, et fait bug la recherche
+- Problème avec la raison du ban
