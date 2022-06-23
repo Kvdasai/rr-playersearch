@@ -12,5 +12,5 @@ Petite application simple permettant juste en entrant un pseudo dans la barre de
 - [ ] Ajouter la raison du bannissement
 
 **Bugs actuels:**
-- Appuyer sur "Entrée" fait un retour à la ligne, et fait bug la recherche
+- Appuyer sur "Entrée" effectue la recherche, mais fais un retour à la ligne, faisant bug la prochaine recherche
 - Problème avec la raison du ban
