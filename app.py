@@ -1,4 +1,3 @@
-from glob import glob
 from tkinter import *
 import tkinter as tk
 from requests import *
