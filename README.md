@@ -10,6 +10,6 @@ Petite application simple permettant juste en entrant un pseudo dans la barre de
 - [ ] Afficher la réponse sur la fenêtre
 - [ ] Arranger le design de l'application
 
-**Bug possibles:**
+**Bugs actuels:**
 - Appuyer sur "Entrée" fait un retour à la ligne, et fait bug la recherche
 - Problème avec la raison du ban
